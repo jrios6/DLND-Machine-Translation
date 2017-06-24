@@ -5,14 +5,14 @@ A [Sequence to Sequence model](https://www.tensorflow.org/tutorials/seq2seq) tra
 <br>
 
 ### Hyperparameters
-* Number of Epochs: 20
+* Number of Epochs: 10
 * Batch Size: 1024
 * LSTM Size: 256
 * Number of LSTM Layers: 2
 * Embedding Size: 128
 * Learning Rate: 0.005
-* Dropout Keep Probability: 0.80
+* Dropout Keep Probability: 0.50
 
 <br>
 
-Achieved Training Accuracy of 99.1% and Validation Accuracy of 98.4%.
+Achieved Training Accuracy of 98.3% and Validation Accuracy of 97.8%.
