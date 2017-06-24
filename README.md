@@ -3,6 +3,7 @@
 ## Submission for Udacity DLND Project 4
 A [Sequence to Sequence model](https://www.tensorflow.org/tutorials/seq2seq) trained on a dataset of 137861 English and French sentences that can translate new sentences from English to French.
 
+<br><br>
 
 ### Hyperparameters
 * Number of Epochs: 20
@@ -13,5 +14,6 @@ A [Sequence to Sequence model](https://www.tensorflow.org/tutorials/seq2seq) tra
 * Learning Rate: 0.005
 * Dropout Keep Probability: 0.80
 
+<br><br>
 
 Achieved Training Accuracy of 99.1% and Validation Accuracy of 98.4%.
