@@ -2,8 +2,8 @@
 
 ## Submission for Udacity DLND Project 4
 A [Sequence to Sequence model](https://www.tensorflow.org/tutorials/seq2seq) trained on a dataset of 137861 English and French sentences that can translate new sentences from English to French.
-
 <br>
+
 ### Hyperparameters
 * Number of Epochs: 20
 * Batch Size: 1024
