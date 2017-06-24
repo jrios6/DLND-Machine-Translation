@@ -9,7 +9,7 @@ A [Sequence to Sequence model](https://www.tensorflow.org/tutorials/seq2seq) tra
 * Batch Size: 1024
 * LSTM Size: 256
 * Number of LSTM Layers: 2
-* Embedding Size: 128128
+* Embedding Size: 128
 * Learning Rate: 0.005
 * Dropout Keep Probability: 0.80
 
